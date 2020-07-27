@@ -1,3 +1,5 @@
+Machine learning applications for predictive maintenance
+
 Equipment failure is a common phenomenon in industry, which may have trivial impacts on operations or cause major catastrophes including significant loss of production or injury. Proper maintenance strategies can be utilized to avoid unnecessary equipment downtime, possible safety hazards, and high turnaround time and customer dissatisfaction.
 
 There are three types of maintenance strategies:
